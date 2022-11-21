@@ -1,0 +1,6 @@
+
+About me: 
+name - Chumachenko Euheniia Volodymirivna;
+age - 40;
+pets - one pritty Spitz;
+salary - 1000 dollars.

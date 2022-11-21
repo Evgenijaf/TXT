@@ -1,0 +1,11 @@
+
+skills:
+ - testing theory, 
+ - test documentation, 
+ - web-mobile-desctop-testing,
+ - postman, 
+ - API, 
+ - SQL, 
+ - GIT, 
+ - charles, 
+ - soft skills.
